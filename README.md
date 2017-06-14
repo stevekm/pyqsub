@@ -1,6 +1,8 @@
 # pyqsub
 Python functions for working with qsub. Originally designed for use with the SGE compute cluster at NYUMC.
 
+The primary goal of this module is to facilitate data analysis pipeline development by making it easier to submit cluster jobs and monitor their completion status, from within Python. 
+
 # Installation
 
 Simply clone this repo
